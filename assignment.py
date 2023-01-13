@@ -15,7 +15,7 @@ def get_date(date1,date2):
 
     return d1,d2
 
-def get_io_difference(date1,date2,cursor):
+def get_io_difference(date1,date2,cur):
     """
     Parameters:
     date1 (str): "day/month/year"
